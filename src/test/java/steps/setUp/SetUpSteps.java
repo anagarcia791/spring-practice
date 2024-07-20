@@ -22,7 +22,7 @@ public class SetUpSteps extends BaseSteps {
 
     @Given("User unlock the cellphone")
     public void unlocksCellphone() {
-        System.out.println("LLEGA POR ACAAAAAAAAAAAAAAAAAAAA SET UP STEPS");
+        System.out.println("LLEGA POR ACAAAAAAAAAAAAAAAAAAAA SET UP STEPS!!");
         logger.info("LLEGA POR ACAAAAAAAAAAAAAAAAAAAA");
     }
 
